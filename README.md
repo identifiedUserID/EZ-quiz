@@ -1,7 +1,7 @@
-# EZ-quiz - Your Personalized Study Quiz Generator
+# StudyQuizGen - Your Personalized Study Quiz Generator
 
 [![Project Status](https://img.shields.io/badge/status-idea-blue.svg)](https://www.repostatus.org/#idea)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) <!-- Add your license file later -->
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## Overview
 
@@ -94,10 +94,6 @@ The core idea is to automate the transformation of study notes into interactive 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).  <!-- Update with your chosen license -->
+This project is licensed under the [MIT License](LICENSE). 
 
 ---
-
-**This documentation provides a solid foundation for your project!**  You can expand on each section as you develop the application.  Remember to create a `LICENSE` file (e.g., MIT license) in your repository root and update the license badge link.
-
-Let me know if you'd like help with specific sections or want to dive deeper into any of these aspects! Good luck with your project!
